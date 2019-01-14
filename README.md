@@ -1,6 +1,6 @@
 # Docker image with Python, Machine Learning tools and XGBoost
 
-The image is based on an official [Alpine Python 3.6 image](https://hub.docker.com/_/python/) and contains several machine learning tools:
+The image is based on an official [Slim-Strech Python 3.6.8 image](https://hub.docker.com/_/python/) and contains several machine learning tools:
 
 * SciPy 1.2.0
 * NumPy 1.15.4
