@@ -1,4 +1,4 @@
-# Docker image with Python, Machine Learning tools and XGBoost
+# Docker image with Python, Machine Learning tools including XGBoost
 
 The image is based on an official [Python 3.6.8 Stretch slim image](https://hub.docker.com/_/python/) and contains several machine learning tools:
 
